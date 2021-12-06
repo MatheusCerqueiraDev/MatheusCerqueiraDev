@@ -13,7 +13,7 @@ I'm open to open source projects feel free to call me to participate.
 <img src="https://img.shields.io/badge/Javascript-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
 <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
 <img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" />
-<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=5188FE" />
+<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/GraphqL-e535ab?style=for-the-badge&logo=GraphQL&logoColor=white&labelColor=e535ab" />
 
 </div>
