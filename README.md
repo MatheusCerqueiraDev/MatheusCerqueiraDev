@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/>I'm a software developer. I'm currently learning React and Typescript ⚛️
 
 <br/>
-Passionate about technologies and understand how they works.
+I'm passionate about technologies and understand how they works.
 
 I'm open to open source projects feel free to call me to participate.
 <br/>
@@ -14,6 +14,7 @@ I'm open to open source projects feel free to call me to participate.
 <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
 <img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" />
 <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=NextJs&logoColor=white&labelColor=5188FE" />
+  <img src="https://img.shields.io/badge/GraphQL-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" />
 
 </div>
 </center>
