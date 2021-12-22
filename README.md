@@ -17,7 +17,6 @@ I'm open to open source projects feel free to call me to participate.
 <img src="https://img.shields.io/badge/GraphqL-e535ab?style=for-the-badge&logo=GraphQL&logoColor=white&labelColor=e535ab" />
 <img src="https://img.shields.io/badge/Chakraui-3276E6?style=for-the-badge&logo=Chakraui&logoColor=white&labelColor=3276E6" />
 <img src="https://img.shields.io/badge/MaterialUi-3276E6?style=for-the-badge&logo=Materialui&logoColor=white&labelColor=3276E6" />
-  
 
 </div>
 </center>
