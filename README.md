@@ -1,9 +1,12 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/>I'm a software developer. I'm currently learning React and Typescript ⚛️
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/>I'm a software developer. Currently I'm learning React and Typescript ⚛️
+<br/>
+I work at Mobtex a software solutions company as front end developer.
 
 <br/>
 I'm passionate about technologies and understand how they works.
 
 I'm open to open source projects feel free to call me to participate.
+You can reach me <a href="https://www.linkedin.com/in/matheusdecarvalho1/">here</a>
 <br/>
 
 <center>
