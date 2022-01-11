@@ -1,11 +1,11 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/>I'm a software developer. Currently I'm learning React and Typescript ⚛️
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/>Welcome to my profile! Currently I'm working as a software engineer. I'm improving my React and Typescript. They are my main stacks! ⚛️
 <br/>
-I work at Mobtex a software solutions company as front end developer.
+I work at Mobtex a software solutions company making the front end and back end.
 
 <br/>
-I'm passionate about technologies and understand how they works.
+I'm passionate about technologies and understand how they works. Two of my hobbies are study and programming. 😅
 
-I'm open to open source projects feel free to call me to participate.
+I'm open to open source projects feel free to invite me or to get in touch with me.
 You can reach me <a href="https://www.linkedin.com/in/matheusdecarvalho1/">here</a>
 <br/>
 
