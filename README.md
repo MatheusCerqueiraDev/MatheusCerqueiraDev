@@ -28,6 +28,9 @@ You can reach me <a href="https://www.linkedin.com/in/matheusdecarvalho1/">here<
 ![MatheusCerqueiraDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusCerqueiraDev&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCerqueiraDev&layout=compact)](https://github.com/MatheusCerqueiraDev/github-readme-stats)
+<p align="center" dir="auto">
+ <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3586e95c7cdb0fc3453b64ad8a1cd9e2f4b6c1eb4d15ef42840eec3d9e2c7ea8/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6761627269656c686964726f267468656d653d6461726b"><img align="center" src="https://camo.githubusercontent.com/3586e95c7cdb0fc3453b64ad8a1cd9e2f4b6c1eb4d15ef42840eec3d9e2c7ea8/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6761627269656c686964726f267468656d653d6461726b" alt="MatheusCerqueiraDev" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusCerqueiraDev&amp;theme=dark" style="max-width: 100%;"></a>
+</p>
 
 <!--
 **MatheusCerqueiraDev/MatheusCerqueiraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
