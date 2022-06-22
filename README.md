@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/>Welcome to my profile! Currently I'm working as a software engineer. I'm improving my React and Typescript. They are my main stacks! ⚛️
+### Hi there  <br/>Welcome to my profile! Currently I'm working as a software engineer. I'm improving my React and Typescript. They are my main stacks! ⚛️
 <br/>
 I work at Smart Envios a freight solutions company developing front end.
 
