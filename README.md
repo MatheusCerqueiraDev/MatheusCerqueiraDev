@@ -21,6 +21,8 @@ You can reach me <a href="https://www.linkedin.com/in/matheusdecarvalho1/">here<
 <img src="https://img.shields.io/badge/Chakraui-3276E6?style=for-the-badge&logo=Chakraui&logoColor=white&labelColor=3276E6" />
 <img src="https://img.shields.io/badge/MaterialUi-3276E6?style=for-the-badge&logo=Materialui&logoColor=white&labelColor=3276E6" />
 <img src="https://img.shields.io/badge/Redux Toolkit-993399?style=for-the-badge&logo=Redux&logoColor=white&labelColor=993399" />
+<img src="https://img.shields.io/badge/VueJS-4F772D?style=for-the-badge&logo=Vue&logoColor=white&labelColor=4F772D" />
+<img src="https://img.shields.io/badge/NuxtJS-31572C?style=for-the-badge&logo=Nuxt&logoColor=white&labelColor=31572C" />
 
 </div>
 </center>
