@@ -1,6 +1,6 @@
 ### Hi there  <br/>Welcome to my profile! Currently I'm working as a software engineer. I'm improving my React and Typescript. They are my main stacks! ⚛️
 <br/>
-I work at Smart Envios a freight solutions company developing front end.
+I work at Agencia MoP a freight solutions company developing front end.
 
 <br/>
 I'm passionate about technologies and understand how they works. Two of my hobbies are study and programming. 😅
