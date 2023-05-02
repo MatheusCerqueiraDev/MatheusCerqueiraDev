@@ -26,11 +26,6 @@ You can reach me <a href="https://www.linkedin.com/in/matheusdecarvalho1/">here<
 
 </div>
 </center>
-
-![MatheusCerqueiraDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusCerqueiraDev&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCerqueiraDev&layout=compact)](https://github.com/MatheusCerqueiraDev/github-readme-stats)
-
 <!--
 **MatheusCerqueiraDev/MatheusCerqueiraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
