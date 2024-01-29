@@ -1,6 +1,6 @@
 ### Hi there  <br/>Welcome to my profile! Currently I'm working as a software engineer. I'm improving my React and Typescript. They are my main stacks! ⚛️
 <br/>
-I work at Agencia MoP a marketing agency developing front end.
+I work at Shipeezi a marketing agency developing front end.
 
 <br/>
 I'm passionate about technologies and understand how they works. Two of my hobbies are study and programming. 😅
